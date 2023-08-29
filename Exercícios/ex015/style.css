@@ -1,0 +1,17 @@
+@charset "UTF8;";
+body {
+    background-color: rgb(37, 37, 37);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+h1{
+    color: white;
+    background-color: rgb(92, 91, 91);
+}
+h2{
+    color:rgb(240, 204, 139);
+}
+p{
+    text-align: justify;
+    color: rgb(240, 238, 238);
+}

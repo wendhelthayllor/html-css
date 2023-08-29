@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;  
+    background-color: #56416C;
+    text-align: center;
+
+}
+
+#caixa {
+    padding: 5px;
+    border: 1px;
+    margin: 1px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.329);
+}
+
+h1 {
+    background-color: #2F1945;
+    color: #90819F;
+    font-size: bold;
+} 
